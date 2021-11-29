@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NhapThanhNav</string>
+    <string name="action_home">Trang chủ</string>
+    <string name="action_lich">Lịch khám</string>
+    <string name="action_qr"></string>
+    <string name="action_thongbao">Thông báo</string>
+    <string name="action_taikhoan">Tài khoản</string>
+</resources>
